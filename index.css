@@ -1,0 +1,625 @@
+table span {
+    margin: 0;
+    color: white;
+
+}
+
+#proTeam {
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+#meetThe {
+    font-weight: lighter;
+    font-size: large;
+}
+#panelProTeam {
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%);
+    height: 100px;
+}
+.banner {
+    width: 100%;
+    height: 300px;
+    background-image: url("img/snow-smoke.jpg");
+    background-position: center center;
+    background-size: cover;
+}
+.text-lightblack {
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%) !important;
+}
+.background-lightblack {
+    background-color: #2b2b2b;
+}
+.dark-white {
+    color:white;
+}
+.progress {
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 100em;
+}
+.objective-bar {
+    padding: 0.5%;
+}
+#teamAdrien {
+    background-image: url("img/adrien.jpg");
+    width: 558px;
+    height: 558px;
+}
+#proPicture {
+    margin: 0 !important;
+    padding: 1%;
+}
+#proPicture img {
+    max-width: 100%;
+    max-height: 100%;
+}
+.namePro {
+    height: 75px;
+    line-height: 75px;
+    vertical-align: center;
+    text-align: center;
+
+}
+.namePro .name {
+    color: white;
+    font-weight: bold;
+    font-size: x-large;
+}
+.namePro .proSkill {
+    color: white;
+    font-weight: lighter;
+    font-size: medium;
+}
+#headingOne, #headingOneBis {
+    background-color: #2b2b2b;
+    border-radius: 0;
+
+}
+.accordion button {
+    padding: 0;
+    border: none;
+    text-decoration:none;
+
+}
+.accordion .card {
+    border-radius: 0;
+}
+.accordion .btn-link {
+    color: inherit;
+}
+.video {
+    width: 100%;
+    height: 75vh;
+    background-color: black;
+}
+.video-container {
+    width: 100%;
+    position: relative;
+}
+.video-controller {
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.pre-header {
+    width: 100%;
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%);
+}
+.pre-header p {
+    margin: 0;
+    color: white;
+    text-align: center;
+}
+#navbarNav a {
+    font-size: large;
+    font-weight: bolder;
+    font-family: Tahoma;
+}
+#headerFooter {
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%);
+}
+.page-footer {
+    color: white;
+    background-color: #2b2b2b;
+}
+.footer-copyright {
+    background-color: black;
+}
+.page-footer p {
+    text-align: justify;
+}
+.collection h2 {
+    text-align: center;
+    font-weight: bolder;
+}
+.plus {
+    color: #FF9800;
+}
+p {
+    font-family: Tahoma;
+}
+
+.text-lightorange {
+    color:#FF9800;
+}
+
+.text-orange {
+    color:#EF6C00;
+}
+
+.text-white {
+    color:white;
+}
+
+.card-header {
+    background-color: #2b2b2b !important;
+}
+.container .card-header {
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%) !important;
+
+}
+.carousel-inner{
+    width:100%;
+    max-height: 75vh !important;
+}
+.carousel-inner img {
+    max-height: 75vh !important;
+}
+#panelWeAreSunMaster {
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%) !important;
+    text-align: center;
+    color: white;
+}
+
+#panelWeAreSunMaster .gras {
+    font-weight: bold;
+    font-size: xx-large;
+
+}
+#panelWeAreSunMaster .fin {
+    font-weight: lighter;
+    font-size: 18px;
+}
+.row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+}
+.imageGallery .col-md-3 {
+    padding: 2px;
+    width: 100%;
+    position: relative;
+}
+.imageGallery img {
+    height: 300px;
+    padding: 0;
+    width: 100%;
+}
+.textOnImage {
+    position: absolute;
+    bottom: 30px;
+    transform: translateY(30%);
+    left: 20%;
+    color:white;
+    font-weight: bold;
+}
+.customerReviews {
+    text-align: center;
+    margin-bottom: 4% !important;
+}
+.customerReviews h5 {
+    font-weight: lighter;
+    font-size: 19px;
+}
+.review .left {
+    text-align: center;
+    padding-left: 25%;
+}
+.review .right {
+    text-align: center;
+    padding-right: 25%;
+
+}
+.buttonPerso {
+    padding-right: 7%;
+    padding-left: 7%;
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    border: 1px black solid;
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+}
+.customerReviews {
+    font-size: large;
+}
+.card-img-top {
+    max-height: 35vh;
+}
+.card button {
+    text-decoration: none !important;
+}
+.card-headerBis {
+    background-color: #2b2b2b;
+}
+
+/* Formulaire */
+/* ==========================================================================
+   #WRAPPER
+   ========================================================================== */
+.wrapper {
+    margin: 0 auto;
+}
+
+.wrapper--w960 {
+    max-width: 90%
+}
+/* ==========================================================================
+   #BUTTON
+   ========================================================================== */
+.btn {
+    line-height: 40px;
+    display: inline-block;
+    padding: 0 25px;
+    cursor: pointer;
+    color: #fff;
+    font-family: "Roboto", "Arial", "Helvetica Neue", sans-serif;
+    -webkit-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.btn--radius {
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+
+.btn--green {
+    background: #2b2b2b;
+}
+
+.btn--green:hover {
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%);
+    color: white;
+}
+
+
+/* ==========================================================================
+   #FORM
+   ========================================================================== */
+input {
+    outline: none;
+    margin: 0;
+    border: none;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    width: 100%;
+    font-size: 14px;
+    font-family: inherit;
+}
+
+/* input group 1 */
+/* end input group 1 */
+.input-group {
+    position: relative;
+    margin-bottom: 32px;
+    border-bottom: 1px solid #ccc;
+    margin-right: 10%;
+}
+
+.input-icon {
+    position: absolute;
+    font-size: 18px;
+    color: #ccc;
+    right: 8px;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -o-transform: translateY(-50%);
+    transform: translateY(-50%);
+    cursor: pointer;
+}
+
+.input--style-2 {
+    padding: 9px 0;
+    color: #666;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.input--style-2::-webkit-input-placeholder {
+    /* WebKit, Blink, Edge */
+    color: #808080;
+}
+
+.input--style-2:-moz-placeholder {
+    /* Mozilla Firefox 4 to 18 */
+    color: #808080;
+    opacity: 1;
+}
+
+.input--style-2::-moz-placeholder {
+    /* Mozilla Firefox 19+ */
+    color: #808080;
+    opacity: 1;
+}
+
+.input--style-2:-ms-input-placeholder {
+    /* Internet Explorer 10-11 */
+    color: #808080;
+}
+
+.input--style-2:-ms-input-placeholder {
+    /* Microsoft Edge */
+    color: #808080;
+}
+
+/* ==========================================================================
+   #TITLE
+   ========================================================================== */
+
+.title {
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 4%;
+}
+
+/* ==========================================================================
+   #CARD
+   ========================================================================== */
+.card {
+    overflow: hidden;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    background: #fff;
+}
+
+.card-2 {
+    -webkit-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    -moz-box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.15);
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    width: 100%;
+    display: table;
+}
+
+.card-2 .card-heading {
+    background: url("img/snow-smoke.jpg") top left/cover no-repeat;
+    width: 29.1%;
+    display: table-cell;
+}
+.card-2 .card-body {
+    display: table-cell;
+    padding: 80px 90px;
+    padding-bottom: 20px;
+    transform: translateY(-100px);
+}
+
+@media (max-width: 767px) {
+    .card-2 {
+        display: block;
+    }
+    .card-2 .card-heading {
+        width: 100%;
+        display: block;
+        padding-top: 300px;
+        background-position: left center;
+    }
+    .card-2 .card-body {
+        display: block;
+        padding: 60px 50px;
+    }
+}
+.card .information {
+    font-weight: lighter;
+    font-size: 16.7px;
+}
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #FF9800;
+}
+.navbar-light .navbar-nav .nav-link :hover {
+    color: #FF9800;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+}
+
+.fa-tools, .fa-globe-europe  {
+    color:white;
+    text-align:center;
+}
+
+.garantie, .garantie-title, .garantie-1, .garantie-2 {
+    color:white;
+}
+
+.garantie-title {
+    font-size:28px;
+    margin-top:15px;
+    font-weight:bold;
+}
+
+.garantie-1 {
+    font-size: 18px;
+    margin-right:15%;
+    margin-left:15%;
+}
+
+.garantie-1-bold {
+    font-weight:bold;
+}
+
+.garantie-2 {
+    font-size:24px;
+    margin-top:15px;
+    font-weight:bold;
+}
+
+.bloc-garantie {
+    text-align: center;
+}
+
+.livraison-title {
+    font-size:18px;
+    margin-top:15px;
+    font-weight:bold;
+    color:white;
+    margin-bottom:0px;
+}
+
+.bloc-livraison {
+    text-align: center;
+
+}
+
+
+.livraison-1 {
+    font-size:18px;
+    margin-top:15px;
+    margin-bottom:0px;
+    color:white;
+    border: solid white 1px;
+    padding:15px;
+
+
+}
+.livraison-2 {
+    font-size:18px;
+    margin-top:15px;
+    color:white;
+
+}
+
+.form-livraison {
+    margin-right:25%;
+    margin-left:25%;
+}
+
+.div-livraison {
+    padding:0px;
+    margin:0px;
+}
+
+.titre-padding {
+    padding:0px;
+    margin:0px;
+}
+
+.custom-form {
+    background-color:white;
+    border-color: white;
+}
+
+.fa-truck {
+    color:white;
+}
+.specTech {
+    text-align: center;
+    background-color: #eee;
+    padding: 3%;
+}
+.specTech .title {
+    text-transform: uppercase;
+    color: #FF9800;
+
+}
+.comparaison {
+    text-align: center;
+}
+.comparaison span {
+    font-size: large;
+    color: #FF9800;
+}
+.comparaisonBis {
+    text-align: center;
+}
+.comparaisonBis .verre {
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#compare {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+#check {
+    text-align: center;
+}
+
+
+.subscribe-area {
+    background-image: linear-gradient(to top, #FF9800 0%, #EF6C00 100%);
+}
+.pb-50 {
+    padding-bottom: 50px;
+}
+.pt-70 {
+    padding-top: 70px;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.subscribe-text span {
+    font-size: 12px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: 5px;
+}
+.subscribe-text h2 {
+    color: #fff;
+    font-size: 36px;
+    font-weight: 300;
+    margin-bottom: 0;
+    margin-top: 6px;
+}
+.subscribe-wrapper {
+    overflow: hidden;
+}
+.mb-15 {
+    margin-bottom: 15px;
+}
+.subscribe-form {
+}
+.subscribe2-wrapper .subscribe-form input {
+    background: none;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    color: #fff;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 300;
+    height: 57px;
+    margin-right: 17px;
+    padding-left: 35px;
+    width: 70%;
+    cursor: pointer;
+}
+.subscribe2-wrapper .subscribe-form button {
+    background: #ffff;
+    border: none;
+    border-radius: 30px;
+    color: black;
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1;
+    padding: 18px 46px;
+    transition: all 0.3s ease 0s;
+}
+.subscribe2-wrapper .subscribe-form button i {
+    font-size: 18px;
+    padding-left: 5px;
+}
+.margin-suscribe {
+    margin-top:50px;
+}
