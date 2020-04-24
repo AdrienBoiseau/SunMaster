@@ -30,6 +30,9 @@ table span {
 .background-lightblack {
     background-color: #2b2b2b;
 }
+.background-lightorange {
+    background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%);
+}
 .dark-white {
     color:white;
 }
