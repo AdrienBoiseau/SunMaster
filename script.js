@@ -99,7 +99,6 @@ if (send != null) {
             body: JSON.stringify(data)
         }).then(function (result) {
             if (result.status == 201) {
-                console.log('OK')
                 window.location.href = "validation.html";
             }
         });

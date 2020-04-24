@@ -28,7 +28,7 @@ table span {
     background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%) !important;
 }
 .background-lightblack {
-    background-color: #2b2b2b;
+    background:linear-gradient(to top, #2B2B2B 0%, black 100%);
 }
 .background-lightorange {
     background: linear-gradient(to top, #FF9800 0%, #EF6C00 100%);
@@ -625,4 +625,7 @@ input {
 }
 .margin-suscribe {
     margin-top:50px;
+}
+#newsletter::placeholder {
+    color: white;
 }
